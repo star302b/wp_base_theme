@@ -1,1 +1,1 @@
-# wp_base_theme
+WordPress Base theme structure for create new site.

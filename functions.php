@@ -2,6 +2,7 @@
 require_once("vendor/autoload.php");
 
 use theme\init\Nourish;
+use theme\ajax\WP_AJAX;
 
 class ThemeInit extends Nourish{
 
